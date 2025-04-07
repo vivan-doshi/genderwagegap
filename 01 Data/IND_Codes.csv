@@ -1,0 +1,272 @@
+IND Codes,Industry,Category,Sub Category
+0170,Crop production  ,"Agriculture, Forestry, Fishing, and Hunting, and Mining","Agriculture, Forestry, Fishing, and Hunting"
+0180,Animal production and aquaculture,"Agriculture, Forestry, Fishing, and Hunting, and Mining","Agriculture, Forestry, Fishing, and Hunting"
+0190,Forestry except logging ,"Agriculture, Forestry, Fishing, and Hunting, and Mining","Agriculture, Forestry, Fishing, and Hunting"
+0270,Logging ,"Agriculture, Forestry, Fishing, and Hunting, and Mining","Agriculture, Forestry, Fishing, and Hunting"
+0280,"Fishing, hunting and trapping ","Agriculture, Forestry, Fishing, and Hunting, and Mining","Agriculture, Forestry, Fishing, and Hunting"
+0290,Support activities for agriculture and forestry ,"Agriculture, Forestry, Fishing, and Hunting, and Mining","Agriculture, Forestry, Fishing, and Hunting"
+0370,Oil and gas extraction ,"Agriculture, Forestry, Fishing, and Hunting, and Mining","Mining, Quarrying, and Oil and Gas Extraction"
+0380,Coal mining ,"Agriculture, Forestry, Fishing, and Hunting, and Mining","Mining, Quarrying, and Oil and Gas Extraction"
+0390,Metal ore mining ,"Agriculture, Forestry, Fishing, and Hunting, and Mining","Mining, Quarrying, and Oil and Gas Extraction"
+0470,Nonmetallic mineral mining and quarrying ,"Agriculture, Forestry, Fishing, and Hunting, and Mining","Mining, Quarrying, and Oil and Gas Extraction"
+0480,Not specified type of mining,"Agriculture, Forestry, Fishing, and Hunting, and Mining","Mining, Quarrying, and Oil and Gas Extraction"
+0490,Support activities for mining ,"Agriculture, Forestry, Fishing, and Hunting, and Mining","Mining, Quarrying, and Oil and Gas Extraction"
+0770,Construction (the cleaning of buildings and dwellings is incidental during construction and immediately after construction),Construction,Construction
+1070,"Animal food, grain and oilseed milling ",Manufacturing,Manufacturing
+1080,Sugar and confectionery products ,Manufacturing,Manufacturing
+1090,Fruit and vegetable preserving and specialty food manufacturing              ,Manufacturing,Manufacturing
+1170,Dairy product manufacturing,Manufacturing,Manufacturing
+1180,Animal slaughtering and processing ,Manufacturing,Manufacturing
+1190,Retail bakeries ,Manufacturing,Manufacturing
+1270,"Bakeries and tortilla manufacturing, except retail bakeries ",Manufacturing,Manufacturing
+1280,"Seafood and other miscellaneous foods, n.e.c. ",Manufacturing,Manufacturing
+1290,Not specified food industries,Manufacturing,Manufacturing
+1370,Beverage manufacturing,Manufacturing,Manufacturing
+1390,Tobacco manufacturing,Manufacturing,Manufacturing
+1470,"Fiber, yarn, and thread mills ",Manufacturing,Manufacturing
+1480,"Fabric mills, except knitting mills",Manufacturing,Manufacturing
+1490,Textile and fabric finishing and fabric coating mills ,Manufacturing,Manufacturing
+1570,Carpet and rug mills,Manufacturing,Manufacturing
+1590,"Textile product mills, except carpet and rug",Manufacturing,Manufacturing
+1670,"Knitting fabric mills, and apparel knitting mills ",Manufacturing,Manufacturing
+1691,"Cut and sew, and apparel accessories and other apparel manufacturing",Manufacturing,Manufacturing
+1770,Footwear manufacturing,Manufacturing,Manufacturing
+1790,"Leather and hide tanning and finishing, and other leather and allied product manufacturing",Manufacturing,Manufacturing
+1870,"Pulp, paper, and paperboard mills ",Manufacturing,Manufacturing
+1880,Paperboard container manufacturing,Manufacturing,Manufacturing
+1890,Miscellaneous paper and pulp products  ,Manufacturing,Manufacturing
+1990,Printing and related support activities ,Manufacturing,Manufacturing
+2070,Petroleum refining ,Manufacturing,Manufacturing
+2090,Miscellaneous petroleum and coal products ,Manufacturing,Manufacturing
+2170,"Resin, synthetic rubber, and fibers and filaments manufacturing   ",Manufacturing,Manufacturing
+2180,Agricultural chemical manufacturing  ,Manufacturing,Manufacturing
+2190,Pharmaceutical and medicine manufacturing,Manufacturing,Manufacturing
+2270,"Paint, coating, and adhesive manufacturing ",Manufacturing,Manufacturing
+2280,"Soap, cleaning compound, and cosmetics manufacturing ",Manufacturing,Manufacturing
+2290,Industrial and miscellaneous chemicals ,Manufacturing,Manufacturing
+2370,Plastics product manufacturing ,Manufacturing,Manufacturing
+2380,Tire manufacturing ,Manufacturing,Manufacturing
+2390,"Rubber products, except tires, manufacturing ",Manufacturing,Manufacturing
+2470,"Pottery, ceramics, and plumbing fixture manufacturing  ",Manufacturing,Manufacturing
+2480,Clay building material and refractories manufacturing,Manufacturing,Manufacturing
+2490,Glass and glass product manufacturing ,Manufacturing,Manufacturing
+2570,"Cement, concrete, lime, and gypsum product manufacturing ",Manufacturing,Manufacturing
+2590,Miscellaneous nonmetallic mineral product manufacturing ,Manufacturing,Manufacturing
+2670,Iron and steel mills and steel product manufacturing  ,Manufacturing,Manufacturing
+2680,Aluminum production and processing  ,Manufacturing,Manufacturing
+2690,Nonferrous metal (except aluminum) production and processing ,Manufacturing,Manufacturing
+2770,Foundries ,Manufacturing,Manufacturing
+2780,Metal forgings and stampings ,Manufacturing,Manufacturing
+2790,Cutlery and hand tool manufacturing  ,Manufacturing,Manufacturing
+2870,"Structural metals, and boiler, tank, and shipping container manufacturing ",Manufacturing,Manufacturing
+2880,"Machine shops; turned product; screw, nut, and bolt manufacturing  ",Manufacturing,Manufacturing
+2890,"Coating, engraving, heat treating, and allied activities ",Manufacturing,Manufacturing
+2970,Ordnance ,Manufacturing,Manufacturing
+2980,Miscellaneous fabricated metal products manufacturing             ,Manufacturing,Manufacturing
+2990,Not specified metal industries,Manufacturing,Manufacturing
+3070,Agricultural implement manufacturing ,Manufacturing,Manufacturing
+3080,"Construction, and mining and oil and gas field machinery manufacturing ",Manufacturing,Manufacturing
+3095,Commercial and service industry machinery manufacturing,Manufacturing,Manufacturing
+3170,Metalworking machinery manufacturing,Manufacturing,Manufacturing
+3180,"Engine, turbine, and power transmission equipment manufacturing",Manufacturing,Manufacturing
+3291,"Machinery manufacturing, n.e.c. or not specified",Manufacturing,Manufacturing
+3365,Computer and peripheral equipment manufacturing,Manufacturing,Manufacturing
+3370,"Communications, audio, and video equipment manufacturing",Manufacturing,Manufacturing
+3380,"Navigational, measuring, electromedical, and control instruments manufacturing",Manufacturing,Manufacturing
+3390,"Electronic component and product manufacturing, n.e.c. ",Manufacturing,Manufacturing
+3470,Household appliance manufacturing ,Manufacturing,Manufacturing
+3490,"Electric lighting and electrical equipment manufacturing, and other electrical component manufacturing, n.e.c.",Manufacturing,Manufacturing
+3570,Motor vehicles and motor vehicle equipment manufacturing ,Manufacturing,Manufacturing
+3580,Aircraft and parts manufacturing,Manufacturing,Manufacturing
+3590,Aerospace products and parts manufacturing ,Manufacturing,Manufacturing
+3670,Railroad rolling stock manufacturing,Manufacturing,Manufacturing
+3680,Ship and boat building ,Manufacturing,Manufacturing
+3690,Other transportation equipment manufacturing,Manufacturing,Manufacturing
+3770,Sawmills and wood preservation ,Manufacturing,Manufacturing
+3780,"Veneer, plywood, and engineered wood products ",Manufacturing,Manufacturing
+3790,Prefabricated wood buildings and mobile homes manufacturing,Manufacturing,Manufacturing
+3875,Miscellaneous wood products ,Manufacturing,Manufacturing
+3895,Furniture and related product manufacturing ,Manufacturing,Manufacturing
+3960,Medical equipment and supplies manufacturing,Manufacturing,Manufacturing
+3970,"Sporting and athletic goods, and doll, toy and game manufacturing",Manufacturing,Manufacturing
+3980,"Miscellaneous manufacturing, n.e.c.  ",Manufacturing,Manufacturing
+3990,Not specified manufacturing industries,Manufacturing,Manufacturing
+4070,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,Wholesale Trade,Wholesale Trade
+4080,Furniture and home furnishing merchant wholesalers   ,Wholesale Trade,Wholesale Trade
+4090,Lumber and other construction materials merchant wholesalers ,Wholesale Trade,Wholesale Trade
+4170,Professional and commercial equipment and supplies merchant wholesalers,Wholesale Trade,Wholesale Trade
+4180,"Metals and minerals, except petroleum, merchant wholesalers                         ",Wholesale Trade,Wholesale Trade
+4195,Household appliances and electrical and electronic goods merchant wholesalers ,Wholesale Trade,Wholesale Trade
+4265,"Hardware, and plumbing and heating equipment, and supplies merchant wholesalers",Wholesale Trade,Wholesale Trade
+4270,"Machinery, equipment, and supplies merchant wholesalers     ",Wholesale Trade,Wholesale Trade
+4280,Recyclable material merchant wholesalers ,Wholesale Trade,Wholesale Trade
+4290,Miscellaneous durable goods merchant wholesalers    ,Wholesale Trade,Wholesale Trade
+4370,Paper and paper products merchant wholesalers ,Wholesale Trade,Wholesale Trade
+4380,"Drugs, sundries, and chemical and allied products merchant  wholesalers ",Wholesale Trade,Wholesale Trade
+4390,"Apparel, piece goods, and notions merchant wholesalers",Wholesale Trade,Wholesale Trade
+4470,Grocery and related product merchant wholesalers ,Wholesale Trade,Wholesale Trade
+4480,Farm product raw material merchant wholesalers ,Wholesale Trade,Wholesale Trade
+4490,Petroleum and petroleum products merchant wholesalers ,Wholesale Trade,Wholesale Trade
+4560,Alcoholic beverages merchant wholesalers ,Wholesale Trade,Wholesale Trade
+4570,Farm supplies merchant wholesalers ,Wholesale Trade,Wholesale Trade
+4580,Miscellaneous nondurable goods merchant wholesalers ,Wholesale Trade,Wholesale Trade
+4585,Wholesale electronic markets and agents and brokers ,Wholesale Trade,Wholesale Trade
+4590,Not specified wholesale trade,Wholesale Trade,Wholesale Trade
+4670,Automobile dealers ,Retail Trade,Retail Trade
+4680,Other motor vehicle dealers ,Retail Trade,Retail Trade
+4690,"Automotive parts, accessories, and tire stores",Retail Trade,Retail Trade
+4770,Furniture and home furnishings stores ,Retail Trade,Retail Trade
+4780,Household appliance stores ,Retail Trade,Retail Trade
+4795,Electronics Stores,Retail Trade,Retail Trade
+4870,Building material and supplies dealers  ,Retail Trade,Retail Trade
+4880,Hardware stores ,Retail Trade,Retail Trade
+4890,Lawn and garden equipment and supplies stores ,Retail Trade,Retail Trade
+4971,Supermarkets and other grocery (except convenience) stores,Retail Trade,Retail Trade
+4972,Convenience Stores,Retail Trade,Retail Trade
+4980,Specialty food stores,Retail Trade,Retail Trade
+4990,"Beer, wine, and liquor stores ",Retail Trade,Retail Trade
+5070,Pharmacies and drug stores ,Retail Trade,Retail Trade
+5080,"Health and personal care, except drug, stores ",Retail Trade,Retail Trade
+5090,Gasoline stations ,Retail Trade,Retail Trade
+5170,Clothing stores ,Retail Trade,Retail Trade
+5180,Shoe stores ,Retail Trade,Retail Trade
+5190,"Jewelry, luggage, and leather goods stores ",Retail Trade,Retail Trade
+5275,"Sporting goods, and hobby and toy stores ",Retail Trade,Retail Trade
+5280,"Sewing, needlework, and piece goods stores ",Retail Trade,Retail Trade
+5295,Musical instrument and supplies stores ,Retail Trade,Retail Trade
+5370,Book stores and news dealers ,Retail Trade,Retail Trade
+5381,Department stores ,Retail Trade,Retail Trade
+5391,"General merchandise stores, including warehouse clubs and supercenters ",Retail Trade,Retail Trade
+5470,Florists,Retail Trade,Retail Trade
+5480,Office supplies and stationery stores ,Retail Trade,Retail Trade
+5490,Used merchandise stores ,Retail Trade,Retail Trade
+5570,"Gift, novelty, and souvenir shops ",Retail Trade,Retail Trade
+5580,Miscellaneous retail stores ,Retail Trade,Retail Trade
+5593,Electronic shopping and mail-order houses,Retail Trade,Retail Trade
+5670,Vending machine operators ,Retail Trade,Retail Trade
+5680,Fuel dealers ,Retail Trade,Retail Trade
+5690,Other direct selling establishments,Retail Trade,Retail Trade
+5790,Not specified retail trade,Retail Trade,Retail Trade
+6070,Air transportation ,"Transportation and Warehousing, and Utilities     ","Transportation and Warehousing, and Utilities     "
+6080,Rail transportation ,"Transportation and Warehousing, and Utilities     ","Transportation and Warehousing, and Utilities     "
+6090,Water transportation ,"Transportation and Warehousing, and Utilities     ","Transportation and Warehousing, and Utilities     "
+6170,Truck transportation ,"Transportation and Warehousing, and Utilities     ","Transportation and Warehousing, and Utilities     "
+6180,Bus service and urban transit ,"Transportation and Warehousing, and Utilities     ","Transportation and Warehousing, and Utilities     "
+6190,Taxi and limousine service ,"Transportation and Warehousing, and Utilities     ","Transportation and Warehousing, and Utilities     "
+6270,Pipeline transportation ,"Transportation and Warehousing, and Utilities     ","Transportation and Warehousing, and Utilities     "
+6280,Scenic and sightseeing transportation ,"Transportation and Warehousing, and Utilities     ","Transportation and Warehousing, and Utilities     "
+6290,Services incidental to transportation ,"Transportation and Warehousing, and Utilities     ","Transportation and Warehousing, and Utilities     "
+6370,Postal Service ,"Transportation and Warehousing, and Utilities     ","Transportation and Warehousing, and Utilities     "
+6380,Couriers and messengers ,"Transportation and Warehousing, and Utilities     ","Transportation and Warehousing, and Utilities     "
+6390,Warehousing and storage ,"Transportation and Warehousing, and Utilities     ","Transportation and Warehousing, and Utilities     "
+0570,"Electric power generation, transmission and distribution","Transportation and Warehousing, and Utilities     ",Utilities
+0580,Natural gas distribution ,"Transportation and Warehousing, and Utilities     ",Utilities
+0590,"Electric and gas, and other combinations ","Transportation and Warehousing, and Utilities     ",Utilities
+0670,"Water, steam, air-conditioning, and irrigation systems ","Transportation and Warehousing, and Utilities     ",Utilities
+0680,Sewage treatment facilities ,"Transportation and Warehousing, and Utilities     ",Utilities
+0690,Not specified utilities ,"Transportation and Warehousing, and Utilities     ",Utilities
+6470,Newspaper publishers,Information ,Information 
+6480,"Periodical, book, and directory publishers",Information ,Information 
+6490,Software publishers,Information ,Information 
+6570,Motion pictures and video industries,Information ,Information 
+6590,Sound recording industries,Information ,Information 
+6670,Broadcasting (except internet),Information ,Information 
+6672,Internet publishing and broadcasting and web search portals,Information ,Information 
+6680,Wired telecommunications carriers ,Information ,Information 
+6690,"Telecommunications, except wired telecommunications carriers ",Information ,Information 
+6695,"Data processing, hosting, and related services",Information ,Information 
+6770,Libraries and archives,Information ,Information 
+6780,"Other information services, except libraries and archives, and internet publishing and broadcasting and web search portals",Information ,Information 
+6870,Banking and related activities,"Finance and Insurance, and Real Estate, and Rental and Leasing",Finance and Insurance
+6880,"Savings institutions, including credit unions ","Finance and Insurance, and Real Estate, and Rental and Leasing",Finance and Insurance
+6890,Nondepository credit and related activities,"Finance and Insurance, and Real Estate, and Rental and Leasing",Finance and Insurance
+6970,"Securities, commodities, funds, trusts, and other financial investments","Finance and Insurance, and Real Estate, and Rental and Leasing",Finance and Insurance
+6991,Insurance carriers,"Finance and Insurance, and Real Estate, and Rental and Leasing",Finance and Insurance
+6992,"Agencies, brokerages, and other insurance related activities","Finance and Insurance, and Real Estate, and Rental and Leasing",Finance and Insurance
+7071,"Lessors of real estate, and offices of real estate agents and brokers","Finance and Insurance, and Real Estate, and Rental and Leasing",Real Estate and Rental and Leasing
+7072,"Real estate property managers, offices of real estate appraisers, and other activities related to real estate ","Finance and Insurance, and Real Estate, and Rental and Leasing",Real Estate and Rental and Leasing
+7080,Automotive equipment rental and leasing ,"Finance and Insurance, and Real Estate, and Rental and Leasing",Real Estate and Rental and Leasing
+7181,Other consumer goods rental,"Finance and Insurance, and Real Estate, and Rental and Leasing",Real Estate and Rental and Leasing
+7190,"Commercial, industrial, and other intangible assets rental and leasing","Finance and Insurance, and Real Estate, and Rental and Leasing",Real Estate and Rental and Leasing
+7270,Legal services ,and Waste Management Services,"Professional, Scientific, and Technical Services"
+7280,"Accounting, tax preparation, bookkeeping, and payroll services",and Waste Management Services,"Professional, Scientific, and Technical Services"
+7290,"Architectural, engineering, and related services ",and Waste Management Services,"Professional, Scientific, and Technical Services"
+7370,Specialized design services ,and Waste Management Services,"Professional, Scientific, and Technical Services"
+7380,Computer systems design and related services ,and Waste Management Services,"Professional, Scientific, and Technical Services"
+7390,"Management, scientific, and technical consulting services",and Waste Management Services,"Professional, Scientific, and Technical Services"
+7460,Scientific research and development services ,and Waste Management Services,"Professional, Scientific, and Technical Services"
+7470,"Advertising, public relations, and related services",and Waste Management Services,"Professional, Scientific, and Technical Services"
+7480,Veterinary services ,and Waste Management Services,"Professional, Scientific, and Technical Services"
+7490,"Other professional, scientific, and technical services ",and Waste Management Services,"Professional, Scientific, and Technical Services"
+7570,Management of companies and enterprises ,and Waste Management Services,Management of companies and enterprises
+7580,Employment services ,and Waste Management Services,Administrative and support and waste management services
+7590,Business support services ,and Waste Management Services,Administrative and support and waste management services
+7670,Travel arrangements and reservation services ,and Waste Management Services,Administrative and support and waste management services
+7680,Investigation and security services ,and Waste Management Services,Administrative and support and waste management services
+7690,Services to buildings and dwellings (except cleaning during construction and immediately after construction) ,and Waste Management Services,Administrative and support and waste management services
+7770,Landscaping services,and Waste Management Services,Administrative and support and waste management services
+7780,Other administrative and other support services ,and Waste Management Services,Administrative and support and waste management services
+7790,Waste management and remediation services ,and Waste Management Services,Administrative and support and waste management services
+7860,Elementary and secondary schools ,"Educational Services, and Health Care and Social Assistance",Educational Services
+7870,"Colleges, universities, and professional schools, including junior colleges","Educational Services, and Health Care and Social Assistance",Educational Services
+7880,"Business, technical, and trade schools and training ","Educational Services, and Health Care and Social Assistance",Educational Services
+7890,"Other schools and instruction, and educational support services ","Educational Services, and Health Care and Social Assistance",Educational Services
+7970,Offices of physicians ,"Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+7980,Offices of dentists ,"Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+7990,Offices of chiropractors ,"Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8070,Offices of optometrists ,"Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8080,Offices of other health practitioners  ,"Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8090,Outpatient care centers ,"Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8170,Home health care services ,"Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8180,Other health care services ,"Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8191,"General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals","Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8192,Psychiatric and substance abuse hospitals,"Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8270,Nursing care facilities (skilled nursing facilities),"Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8290,"Residential care facilities, except skilled nursing facilities","Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8370,Individual and family services ,"Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8380,"Community food and housing, and emergency services ","Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8390,Vocational rehabilitation services ,"Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8470,Child day care services ,"Educational Services, and Health Care and Social Assistance",Health Care and Social Assistance
+8561,Performing arts companies ,"Arts, Entertainment, and Recreation, and Accommodation and Food Services","Arts, Entertainment, and Recreation"
+8562,Spectator sports,"Arts, Entertainment, and Recreation, and Accommodation and Food Services","Arts, Entertainment, and Recreation"
+8563,"Promoters of performing arts, sports, and similar events, agents and managers for artists, athletes, entertainers, and other public figures ","Arts, Entertainment, and Recreation, and Accommodation and Food Services","Arts, Entertainment, and Recreation"
+8564,"Independent artists, writers, and performers","Arts, Entertainment, and Recreation, and Accommodation and Food Services","Arts, Entertainment, and Recreation"
+8570,"Museums, art galleries, historical sites, and similar institutions","Arts, Entertainment, and Recreation, and Accommodation and Food Services","Arts, Entertainment, and Recreation"
+8580,Bowling centers ,"Arts, Entertainment, and Recreation, and Accommodation and Food Services","Arts, Entertainment, and Recreation"
+8590,"Other amusement, gambling, and recreation industries   ","Arts, Entertainment, and Recreation, and Accommodation and Food Services","Arts, Entertainment, and Recreation"
+8660,Traveler accommodation ,"Arts, Entertainment, and Recreation, and Accommodation and Food Services",Accommodation and Food Services
+8670,"Recreational vehicle parks and camps, and rooming and boarding houses, dormitories, and workers' camps","Arts, Entertainment, and Recreation, and Accommodation and Food Services",Accommodation and Food Services
+8680,Restaurants and other food services ,"Arts, Entertainment, and Recreation, and Accommodation and Food Services",Accommodation and Food Services
+8690,"Drinking places, alcoholic beverages ","Arts, Entertainment, and Recreation, and Accommodation and Food Services",Accommodation and Food Services
+8770,Automotive repair and maintenance ,"Other Services, Except Public Administration","Other Services, Except Public Administration"
+8780,Car washes,"Other Services, Except Public Administration","Other Services, Except Public Administration"
+8790,Electronic and precision equipment repair and maintenance,"Other Services, Except Public Administration","Other Services, Except Public Administration"
+8870,Commercial and industrial machinery and equipment repair and maintenance,"Other Services, Except Public Administration","Other Services, Except Public Administration"
+8891,Personal and household goods repair and maintenance ,"Other Services, Except Public Administration","Other Services, Except Public Administration"
+8970,Barber shops ,"Other Services, Except Public Administration","Other Services, Except Public Administration"
+8980,Beauty salons ,"Other Services, Except Public Administration","Other Services, Except Public Administration"
+8990,Nail salons and other personal care services  ,"Other Services, Except Public Administration","Other Services, Except Public Administration"
+9070,Drycleaning and laundry services ,"Other Services, Except Public Administration","Other Services, Except Public Administration"
+9080,"Funeral homes, and cemeteries and crematories ","Other Services, Except Public Administration","Other Services, Except Public Administration"
+9090,Other personal services ,"Other Services, Except Public Administration","Other Services, Except Public Administration"
+9160,Religious organizations ,"Other Services, Except Public Administration","Other Services, Except Public Administration"
+9170,"Civic, social, advocacy organizations, and grantmaking and giving services","Other Services, Except Public Administration","Other Services, Except Public Administration"
+9180,Labor unions,"Other Services, Except Public Administration","Other Services, Except Public Administration"
+9190,"Business, professional, political, and similar organizations","Other Services, Except Public Administration","Other Services, Except Public Administration"
+9290,Private households ,"Other Services, Except Public Administration","Other Services, Except Public Administration"
+9370,Executive offices and legislative bodies ,Public Administration,Public Administration
+9380,Public finance activities ,Public Administration,Public Administration
+9390,Other general government and support ,Public Administration,Public Administration
+9470,"Justice, public order, and safety activities ",Public Administration,Public Administration
+9480,Administration of human resource programs  ,Public Administration,Public Administration
+9490,Administration of environmental quality and housing programs ,Public Administration,Public Administration
+9570,Administration of economic programs and space research,Public Administration,Public Administration
+9590,National security and international affairs ,Public Administration,Public Administration
+9670,U. S. Army,Military,Military
+9680,U. S. Air Force,Military,Military
+9690,U. S. Navy,Military,Military
+9770,U. S. Marines,Military,Military
+9780,U. S. Coast Guard,Military,Military
+9790,"Armed Forces, Branch not specified",Military,Military
+9870,Military Reserves or National Guard,Military,Military
+9920,"Unemployed, last worked 5 years ago or earlier or never worked",Unemployed,Unemployed
